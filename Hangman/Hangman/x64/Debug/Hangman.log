@@ -1,0 +1,6 @@
+﻿  Hangman classes.cpp
+D:\Programming Fundamentals\Hangman\Hangman\Hangman classes.cpp(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming Fundamentals\Hangman\Hangman\Hangman classes.cpp(221,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming Fundamentals\Hangman\Hangman\Hangman classes.cpp(576,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming Fundamentals\Hangman\Hangman\Hangman classes.cpp(842): warning C4715: 'Admin::check_Admin': not all control paths return a value
+  Hangman.vcxproj -> D:\Programming Fundamentals\Hangman\x64\Debug\Hangman.exe
